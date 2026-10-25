@@ -20,5 +20,62 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "인문관": {
+      "style": "stone",
+      "wall": "#c6c6c8",
+      "glass": "#4e5662",
+      "frame": "#3f9a5c"
+    },
+    "도서관": {
+      "style": "glass",
+      "wall": "#d6d8d3",
+      "glass": "#2f5a63",
+      "frame": "#c9ccc6"
+    },
+    "해람문화관": {
+      "style": "ribbon",
+      "wall": "#d4d3ca",
+      "glass": "#3d5a5c",
+      "frame": "#9aa3a0"
+    },
+    "생명과학2호관": {
+      "style": "brick",
+      "wall": "#a06a56",
+      "glass": "#3e5a5c",
+      "frame": "#ddd8cf"
+    },
+    "자연과학1호관": {
+      "style": "ribbon",
+      "wall": "#dcdee0",
+      "glass": "#4f6f78",
+      "frame": "#2e3a7b"
+    },
+    "예술1호관": {
+      "style": "brick",
+      "wall": "#a9857c",
+      "glass": "#3c4a4c",
+      "frame": "#e2ddd5"
+    },
+    "공학1호관": {
+      "style": "brick",
+      "wall": "#a8705a",
+      "glass": "#4a5a60",
+      "frame": "#e6e4de"
+    },
+    "체육관": {
+      "style": "concrete",
+      "wall": "#e2e2de",
+      "glass": "#4f7f7a",
+      "frame": "#9aa29c"
+    },
+    "공학2호관": {
+      "style": "brick",
+      "wall": "#c4927f",
+      "glass": "#3d4d50",
+      "frame": "#e8e2da"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
